@@ -1,0 +1,13 @@
+name = "Small Cat Statues"
+filename = "small_cat_statues-1.0.0 fabric 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FSDcdiQy/versions/358mbFFy/small_cat_statues-1.0.0%20fabric%201.20.1.jar"
+hash-format = "sha512"
+hash = "a09d44c4762bd7a3514cbab0eb59f35a05b12226a9607298c37e40ba03017d9d072d2efecaf9cb38b58b8fb8e602edef7bfe007cf294bac0b2710a28f3e7ec5e"
+
+[update]
+[update.modrinth]
+mod-id = "FSDcdiQy"
+version = "358mbFFy"

@@ -1,0 +1,13 @@
+name = "JimmyBrown"
+author = "Femboys"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2bf5c1ad46ae9642096afb6132103a8b25cc26ec0bc84c397ddf093ce7489d46"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.20.1"
