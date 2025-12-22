@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/adorabuild-structures.pw.toml"
+hash = "82d1bae0fb3724315ef3829aacb25ddc273ccc9c6b965bdf20343387dfba1a5f"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -21,6 +26,16 @@ hash = "724353a7730f54b29378ba8e374c78372c8a8f072e578b5758b11fc150f470b7"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "caec4dd39cda8f695c2d7c9923cf5375fa2360f95ce4d34c9cdf99b626e5d99b"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -28,6 +43,21 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "6ec7fc70c84dc7f7f4578a85480264d82336d64ac0d8c95c0fcc55d350f64ab7"
 metafile = true
 
 [[files]]
@@ -43,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-cats.pw.toml"
 hash = "a58910e720857984ccd736ee9e2899e784029f5a40c02b278d33c3f6752706d4"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
 metafile = true
 
 [[files]]
@@ -96,8 +131,33 @@ hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "96b6a9192639045bc5b2c0815ad33d1d754bf77e2f59bd96dd3bde21784d7704"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "cc5ce2c69f275f245fccbb9f673f5b6711175034bdf41f48cfb672e652ea984b"
 metafile = true
 
 [[files]]
@@ -126,6 +186,21 @@ hash = "b023a335aa5ebb14048587cfef85b374c023518a1db303eb24f1175530ab0085"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "be4bb351c89fb18c5166578ef42006e32138bdb1e356ba7db0723ad49c4272c4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
@@ -138,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "8b64ba3552679ed5a622fbffb8875d6b6a185f39ca4966fed28197a4b031b6e3"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "c309f7b7186fb246c6e72db4b8aef81a77e3ee793978aaf2e34318ce4dfcf014"
 metafile = true
 
 [[files]]
@@ -201,6 +286,11 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
@@ -211,8 +301,18 @@ hash = "8cd62328b33b5d35d5659bc20a2d92357254af6950eb63fbb55d68a1f2b2a8b2"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "3bfed0a852a79f001106405e9964c96eb552ffd4ff247698fbe1d49e76838db6"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "72f2140e2ecb08dca86808eeb38caf84a5650b5d7bbe54cd7f261cc91dfb8830"
 metafile = true
 
 [[files]]
@@ -223,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
