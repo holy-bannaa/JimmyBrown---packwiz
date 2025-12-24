@@ -21,6 +21,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/ati-structures-vanilla-edition.pw.toml"
+hash = "999fad53e62ac2a4d4f799f342d8b843522c0f4d2710edcc0c3d82b5d19cefe1"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
@@ -327,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "7f3b1db8638c3fb26e9e35f31da80734fca02308e28fac276772787f1f852fa6"
+hash = "f0ed08750785b8abf3a524de50422e24fd0f795f2f6db2e8a047fa4d47cd3f5b"
 metafile = true
 
 [[files]]
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "8cd62328b33b5d35d5659bc20a2d92357254af6950eb63fbb55d68a1f2b2a8b2"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
 metafile = true
 
 [[files]]
