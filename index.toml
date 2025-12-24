@@ -6,6 +6,11 @@ hash = "82d1bae0fb3724315ef3829aacb25ddc273ccc9c6b965bdf20343387dfba1a5f"
 metafile = true
 
 [[files]]
+file = "mods/animationoverhaul.pw.toml"
+hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
