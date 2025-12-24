@@ -326,16 +326,6 @@ hash = "38aa99dcb8b2371b04716226723ab30b8954fcc80a503d20c12fc7fc519f26e9"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "fbbde088e1c748d703a69986fc4fd4d61148a9b7be8ed8bca6d293b42c3abedb"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "f0ed08750785b8abf3a524de50422e24fd0f795f2f6db2e8a047fa4d47cd3f5b"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
 metafile = true
