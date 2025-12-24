@@ -6,11 +6,6 @@ hash = "82d1bae0fb3724315ef3829aacb25ddc273ccc9c6b965bdf20343387dfba1a5f"
 metafile = true
 
 [[files]]
-file = "mods/animationoverhaul.pw.toml"
-hash = "398ca3e146b3be50656f80542d6b9dd95b9becb065624e6dcc49d798712c5f99"
-metafile = true
-
-[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
 metafile = true
@@ -216,6 +211,11 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "c474e16112c08c948d912590be9956c7289a60a6282703886c409f25882d07fb"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
 metafile = true
@@ -378,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
-metafile = true
-
-[[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
 metafile = true
 
 [[files]]
@@ -573,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "0a5ed482c6c1fdf41031dc322638818589f69c404705117cc6c968e2fc574763"
 metafile = true
 
 [[files]]
