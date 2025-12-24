@@ -381,6 +381,11 @@ hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "38aa99dcb8b2371b04716226723ab30b8954fcc80a503d20c12fc7fc519f26e9"
 metafile = true
