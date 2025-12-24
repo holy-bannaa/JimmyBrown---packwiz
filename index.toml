@@ -271,11 +271,6 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
-metafile = true
-
-[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "8b64ba3552679ed5a622fbffb8875d6b6a185f39ca4966fed28197a4b031b6e3"
 metafile = true
