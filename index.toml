@@ -56,6 +56,11 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -127,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
+hash = "c9a378fded69f10157712ea481e8a97fe6cd91e72c761971aeea45dadc330389"
 metafile = true
 
 [[files]]
@@ -233,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
-metafile = true
-
-[[files]]
-file = "mods/fxnt-create-storage.pw.toml"
-hash = "35c71e20d7f3492c1d3a81050db4ed2c6c9b372c588f9ada003bf1e2b119dfbe"
 metafile = true
 
 [[files]]
@@ -356,6 +356,11 @@ hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
 file = "mods/moogs-structure-lib.pw.toml"
 hash = "8b64ba3552679ed5a622fbffb8875d6b6a185f39ca4966fed28197a4b031b6e3"
 metafile = true
@@ -386,6 +391,11 @@ hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
 
 [[files]]
+file = "mods/pride-moths.pw.toml"
+hash = "ab0ef96f83ac6d59519db6beab67ec94f23a2e3a9cd50c0f4361a0ef135e3481"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
@@ -413,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "a900fde25ea70ce75001d28cb2bdec27b6ff49fd3edee938ff7994fe84843497"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "d806cab693925db51ec429bd5aaaf7d7872793be835b346066b76941c08bcb13"
 metafile = true
 
 [[files]]
