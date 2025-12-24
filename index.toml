@@ -121,6 +121,11 @@ hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-cats.pw.toml"
 hash = "a58910e720857984ccd736ee9e2899e784029f5a40c02b278d33c3f6752706d4"
 metafile = true
@@ -231,6 +236,11 @@ hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "211d05efd962f20f4eb4704ae6f781960f7931abb687e14b42fead9c980e7a95"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
@@ -298,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "2c5d9c47c2c16b1207f1335d10f99b1ba976bdc3363784674b8907ddd96e9c0a"
 metafile = true
 
 [[files]]
