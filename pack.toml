@@ -1,12 +1,12 @@
 name = "JimmyBrown"
 author = "Femboys"
-version = "1.0.0"
+version = "1.7.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d9863243b007019d041f1caa2b3ea94ab220f2d69badbbf151253b7f0a5e5854"
+hash = "ee2f94e1849ecb6b331c40102fb3d2eecf017440254ab5b4263fdb57ee91bb9e"
 
 [versions]
 fabric = "0.18.3"

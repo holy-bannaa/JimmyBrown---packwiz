@@ -6,6 +6,11 @@ hash = "82d1bae0fb3724315ef3829aacb25ddc273ccc9c6b965bdf20343387dfba1a5f"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "1ba6c0a621ef7ca001fe2a7c7c2322f1f7a4b2c93f3a5adc3b548097f8d366de"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -21,8 +26,18 @@ hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
 
 [[files]]
+file = "mods/autoshutdown.pw.toml"
+hash = "3bb481516286924d6a72fbc8038452db198c314cf7d65c3b2784fd7150c86d5b"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "724353a7730f54b29378ba8e374c78372c8a8f072e578b5758b11fc150f470b7"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "bee459c3b3739a46717f04675ba175d8a5d26fc00a8683acd4ef5bdfb73a9066"
 metafile = true
 
 [[files]]
@@ -36,6 +51,11 @@ hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -46,13 +66,33 @@ hash = "b4fdf52d53ab71bf73282c5168e9526b6024740d82388d604d6947394e3c7f7f"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "62ee505db03ae305933198e59250095ca5403b65abf02fbee6d5216e02d5c10e"
+metafile = true
+
+[[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "5d45a62f15b6bd6b3aa37fd3250103849025e0281aaa56010d9283ddde3299d6"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
+file = "mods/create-trainutilities.pw.toml"
+hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
 metafile = true
 
 [[files]]
@@ -68,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
 metafile = true
 
 [[files]]
@@ -191,6 +241,11 @@ hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "1f07d2b172b4f14ed7cb8c7e9dacb6e140a0b2fd830c00393a72a69ed8627603"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "cc298019c2d3a47a97e72363b942fe408e5ecb7ff476fe08155793f2f1578317"
 metafile = true
@@ -233,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "38aa99dcb8b2371b04716226723ab30b8954fcc80a503d20c12fc7fc519f26e9"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
 metafile = true
 
 [[files]]
@@ -306,6 +366,16 @@ hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
 
 [[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "784c9a130f2eb92134e456aee15cf2c5f273af0848640fdddf33d4a7ecad8cbe"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "3bfed0a852a79f001106405e9964c96eb552ffd4ff247698fbe1d49e76838db6"
 metafile = true
@@ -313,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "72f2140e2ecb08dca86808eeb38caf84a5650b5d7bbe54cd7f261cc91dfb8830"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "f79f5439d3b6aaa9297ef1a8c90fb4389291df0030fa6febc3b5ccd6856c0009"
 metafile = true
 
 [[files]]
