@@ -71,6 +71,11 @@ hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "3681a4dd6134dc64b5af240379c1f98023b2217fd6af8c08763d3228bad01fbe"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -153,6 +158,16 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "adea09f1e1b05da68cf7407992a9391b15985acf5465a888e54ae076dbd543ab"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "a9ed985d2453f61db49f2af28c30d40119a0654f9a58dc850f24eaad50417150"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "dfe0fb2bcdb8a356dae8f654710b72ea9c532c7b05afee33186de068df492ffb"
 metafile = true
 
 [[files]]
@@ -271,6 +286,11 @@ hash = "c8695e51366b601c5e9118a5d5650d234cc25fc8d1f90ebd186c17c199ba7fca"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -298,6 +318,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "38aa99dcb8b2371b04716226723ab30b8954fcc80a503d20c12fc7fc519f26e9"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "fbbde088e1c748d703a69986fc4fd4d61148a9b7be8ed8bca6d293b42c3abedb"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "7f3b1db8638c3fb26e9e35f31da80734fca02308e28fac276772787f1f852fa6"
 metafile = true
 
 [[files]]
@@ -358,11 +388,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
