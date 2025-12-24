@@ -121,11 +121,6 @@ hash = "2748a91387d8bd583894ed2271eea4f3889095ebb0c72372b79e3a4878110710"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "fec1ffa03b4d62e47be25512840490844fc383cf82d2ad35345b2f87a21e8228"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-cats.pw.toml"
 hash = "a58910e720857984ccd736ee9e2899e784029f5a40c02b278d33c3f6752706d4"
 metafile = true
@@ -241,6 +236,16 @@ hash = "211d05efd962f20f4eb4704ae6f781960f7931abb687e14b42fead9c980e7a95"
 metafile = true
 
 [[files]]
+file = "mods/journeymap-integration.pw.toml"
+hash = "a4cedb3070c2c911e92674a78c9645b7e7ca79bca991a6243536cace8b99dd1a"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "c1cc1e05c95d769dd4929825e6a85d5ac8023d4a018569f40dd7bd972a81655e"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8508e46b7e272d79dc6b3cc0149f9fd132c701369bcb2abb5c35da3ed92b27fb"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0d438cc5a467aae6a9aa439a4547f990dfbaa4dc4e7bf5dbabf6d6e839411e83"
 metafile = true
 
 [[files]]
@@ -383,21 +393,6 @@ metafile = true
 [[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "72f2140e2ecb08dca86808eeb38caf84a5650b5d7bbe54cd7f261cc91dfb8830"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "f79f5439d3b6aaa9297ef1a8c90fb4389291df0030fa6febc3b5ccd6856c0009"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "fd725a2383164ee2866a41635b0a8baf4cc1506d33df1ce1cc1455ab98a32e01"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
 
 [[files]]
