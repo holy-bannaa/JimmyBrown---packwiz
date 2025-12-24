@@ -181,6 +181,21 @@ hash = "a58910e720857984ccd736ee9e2899e784029f5a40c02b278d33c3f6752706d4"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b13f84a7fad7d6e21cef513a9c8f8206e55f0b342b4030df540e3126ad5abb2a"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fade702bcfa866d3b4a3b1d030c31ba9764e98b1585a4a54366f4e4d8373e06c"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "605c081279d8e4e5c98e6a50304867214185d8b8f14434b71d388a20f4ad7d5d"
+metafile = true
+
+[[files]]
 file = "mods/estrogen.pw.toml"
 hash = "14272998f333bd1cc6d2b8a3d9f2d5430693f065f74d8cec680b94a5facabb7c"
 metafile = true
