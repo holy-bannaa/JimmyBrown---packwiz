@@ -1,0 +1,13 @@
+name = "Recipe Book Access API"
+filename = "recipebookaccess-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aWgs4SgO/versions/Bjcmc21A/recipebookaccess-1.1.0.jar"
+hash-format = "sha512"
+hash = "ea81605224453be62b6d34b1aa0e5c811da67f47b20af4ad7b2fd46258c1b5a30db9492325d935b92e30bf1b35a46f0ba91246631eb613e6de084a47c0834714"
+
+[update]
+[update.modrinth]
+mod-id = "aWgs4SgO"
+version = "Bjcmc21A"
