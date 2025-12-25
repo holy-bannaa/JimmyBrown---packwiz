@@ -461,11 +461,6 @@ hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
-file = "mods/polymorphic-travelers-backpack.pw.toml"
-hash = "4bc81079f72cae6865b61f996b0767d088221adf81452d234212a53bc7f9f720"
-metafile = true
-
-[[files]]
 file = "mods/pride-moths.pw.toml"
 hash = "ab0ef96f83ac6d59519db6beab67ec94f23a2e3a9cd50c0f4361a0ef135e3481"
 metafile = true
