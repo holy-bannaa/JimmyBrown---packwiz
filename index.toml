@@ -635,11 +635,6 @@ hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
 metafile = true
 
 [[files]]
-file = "mods/tead.pw.toml"
-hash = "a7797de7b406d590464f74026eca78128be6db7ce8b2fc13cd916b8fad7447be"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
