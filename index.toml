@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods.txt"
+hash = "877de0a4973817a212123bda9307f67ae5d71e65e3119e79fc0402ebca2d889e"
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "040d4082526cfde97d2a8b16f1e95f102220a8ef274afb1939398217b1f645ea"
 metafile = true
@@ -61,6 +65,11 @@ hash = "c4c11bc748458978b676b2a5cef87b5b8548c2289e9c199f225f941fb1593c9d"
 metafile = true
 
 [[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "1213577948764954f685da7f84dc10aa531ec2bb74acb672053ea463fd979535"
+metafile = true
+
+[[files]]
 file = "mods/better-village.pw.toml"
 hash = "caec4dd39cda8f695c2d7c9923cf5375fa2360f95ce4d34c9cdf99b626e5d99b"
 metafile = true
@@ -76,8 +85,18 @@ hash = "6447d9f9933ee9085520af83a0d85d2a46e2e8691173df443feebdcb0d893aba"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "62392ad801b58819a5821bdbde21686cf338cf0416ece1721db551f8d2497db3"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
+file = "mods/building-but-better.pw.toml"
+hash = "e75530a3514cb2b772047b61711b789a09596ac417147d7431cf2a803099f9e8"
 metafile = true
 
 [[files]]
@@ -93,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -151,6 +175,11 @@ hash = "f9784ac1511b83e0e3bf7df5b2240170d41e01b285b2b4455ef702113451aa6a"
 metafile = true
 
 [[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "eb4a4e143bff154bd5b613c97a3c1d9ba5b0e950e9f7b76c111fdcb6a92336df"
+metafile = true
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c9a378fded69f10157712ea481e8a97fe6cd91e72c761971aeea45dadc330389"
 metafile = true
@@ -163,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "6ec7fc70c84dc7f7f4578a85480264d82336d64ac0d8c95c0fcc55d350f64ab7"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
 
 [[files]]
@@ -251,13 +285,13 @@ hash = "e09385ac1a1c0900b8fa619290eb0f0539949ebbc59f7604a7699485784ccc85"
 metafile = true
 
 [[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+file = "mods/fast-ip-ping.pw.toml"
+hash = "4d1964bc6102d600b87450947d8969ad36515267c52fc75833fbfd44391c3502"
 metafile = true
 
 [[files]]
-file = "mods/first-person-model.pw.toml"
-hash = "c474e16112c08c948d912590be9956c7289a60a6282703886c409f25882d07fb"
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -316,6 +350,11 @@ hash = "ca3ca3f51541688c45a81c541ff46660853106ebda282dfd59da00f5c9c0a9cd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "aafc36d4ffdbeb024d0cf535d0ebccc10313530e1e8b096fd65132397df1f9e9"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
 metafile = true
@@ -332,7 +371,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventive-inventory.pw.toml"
-hash = "25bca983c037a17b37afef1bb57696b92a76ed70a72d48afd8a2e360de58d17a"
+hash = "e36f3779422d1e9dccf07419775caa64c88c7209046bd38853a1c06b29ae037e"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "8619be4a2d5da2deff6cee6ebda356c1a7fdf3a36d8b58d31cd6ddd5b1649ca1"
 metafile = true
 
 [[files]]
@@ -353,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "a51d746fdd98949eb47b83a9da95a1121fd7163601e901d986e57b1d2aca7950"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "e1a1a0b30b4b7b176ed04905970e41cdc9a43489448f93c0f36ceff720352141"
 metafile = true
 
 [[files]]
@@ -406,6 +455,16 @@ hash = "9c75a2572604803f8e03d00c98ef3b971fad40f9560676d564064a26e32b7a20"
 metafile = true
 
 [[files]]
+file = "mods/mcda.pw.toml"
+hash = "a1cc0c444426ec14c179f53f5fd9a1ddb782c07819c04e8e9662d7f35e52979b"
+metafile = true
+
+[[files]]
+file = "mods/mcdw.pw.toml"
+hash = "30b9370410f04344df5ccd3d86d2c716e1a4a93ca6b877d0a5452b5aa6609c94"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
@@ -456,6 +515,11 @@ hash = "3c2fe6485d980a094a5094263d9d54dd59bd4cfd37439109be561894342a82f8"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
@@ -468,6 +532,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
+metafile = true
+
+[[files]]
+file = "mods/real-camera.pw.toml"
+hash = "e2f1c258fde7192a8c2fd8656a0ddd6a846f2fa1aa08f9f757324cf3677e0bf3"
 metafile = true
 
 [[files]]
@@ -501,6 +570,16 @@ hash = "a900fde25ea70ce75001d28cb2bdec27b6ff49fd3edee938ff7994fe84843497"
 metafile = true
 
 [[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "0efe63ff58d62a614ca15bad8e5892bc07949c4edf99ffae397aa2b26ff17df7"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "d806cab693925db51ec429bd5aaaf7d7872793be835b346066b76941c08bcb13"
 metafile = true
@@ -508,6 +587,21 @@ metafile = true
 [[files]]
 file = "mods/simple-hud-enhanced.pw.toml"
 hash = "7b2026357228fe41eeb3b4e0afbf39a7465a26a0f152bbea95d23ef55a383a5c"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d41fa2fb778e4a20f81752ff62dddafe7643e546c581c807e1532deaa385153b"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "53756963029d3281ce1001a6129367541d2e092b34a4bb1cafeff77f3ec28902"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "7351e582d562ba9dc5ba3fb8c6906d831569ba0e55002f8ca8c6744898d9c84a"
 metafile = true
 
 [[files]]
@@ -531,8 +625,18 @@ hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
 
 [[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "3d30dc4c0da00377baccbed6448f15948e2b84acab55407b3c13c21dd309791e"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "47634b4eedae148767c2dc94236c8f07054a533139400404d74deaf088348a08"
+metafile = true
+
+[[files]]
+file = "mods/tead.pw.toml"
+hash = "a7797de7b406d590464f74026eca78128be6db7ce8b2fc13cd916b8fad7447be"
 metafile = true
 
 [[files]]
@@ -543,6 +647,11 @@ metafile = true
 [[files]]
 file = "mods/the-lost-castle.pw.toml"
 hash = "8cd62328b33b5d35d5659bc20a2d92357254af6950eb63fbb55d68a1f2b2a8b2"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "63d62513cc6d15a9341ebc16b040b6c80751601315e0d002d1dafa18cb190c51"
 metafile = true
 
 [[files]]
@@ -648,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "9cdfdb71fc33baf57750c31517974e625819bfd52cbb463dbff96b1d0d7e4a0d"
 metafile = true
 
 [[files]]

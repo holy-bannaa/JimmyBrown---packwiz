@@ -1,0 +1,13 @@
+name = "Tead: Equipment And More"
+filename = "tead-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wRWgSA19/versions/7QJVvDAV/tead-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "6c58b4ad88cd74457b44649067428892aa5d40b51f591fdb020dcb1e443ef4082df5cfa767d13b650d28ca20810dba859592cf49d2a17310bee471ae4f2a579b"
+
+[update]
+[update.modrinth]
+mod-id = "wRWgSA19"
+version = "7QJVvDAV"
